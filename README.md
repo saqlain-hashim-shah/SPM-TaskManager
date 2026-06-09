@@ -7,6 +7,7 @@ A collaborative Task Management System developed for Software Project Management
 - Task assignment
 - Status tracking
 - User management
+- Login System
 
 ## Team Members
 - Member 1
